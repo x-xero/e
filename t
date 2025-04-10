@@ -1,1 +1,1 @@
-echo siemanko mordzia
+
